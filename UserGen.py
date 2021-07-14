@@ -1,7 +1,7 @@
 import random
 import string
 from os import system
-system("title " + "@0bdo - UserGen")
+system("title " + "@0c9zd - UserGen")
 import time
 
 print("""
@@ -11,7 +11,7 @@ print("""
 ░▀▄▄▀ ▀▀▀ ▀▀▀ ▀░▀▀ ▀░░▀ ▀░░▀ ▀░░░▀ ▀▀▀ 　 ▒█▄▄█ ▀▀▀ ▀▀▀ ░░▀░░ 　 ▒█░░▒█ ▀░░▀ ▀░▀ ▀▀▀ ▀░▀▀
 """)
 print("""
-Cᴏᴅᴇᴅ Bʏ Aʜᴍᴇᴅ Iɴsᴛᴀ: @a7madedits
+Cᴏᴅᴇᴅ Bʏ Aʜᴍᴇᴅ Iɴsᴛᴀ: @c9zd
 """)
 while 1:
     try:
