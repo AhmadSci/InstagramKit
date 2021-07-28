@@ -9,3 +9,5 @@ This KIT Should Contain:
 i'll be adding them one by one as sson as i finish codding each one.
 
 YOU ARE NOT ALLOWED TO SELL THIS PRODUCT UNDER ANY CIRCUMSTANCE!
+
+---Instagram changed the way they handle requests. This whole project will be called off.
